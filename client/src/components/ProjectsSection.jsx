@@ -11,8 +11,8 @@ const projects = [
       "A full-stack MERN grocery web application simulating real e-commerce flows — user authentication, product catalog with search & filter, persistent cart, Stripe payment integration, order management, address book, and an admin dashboard for inventory control.",
     tags: ["React.js", "Node.js", "Express.js", "MongoDB", "Stripe", "TailwindCSS", "JWT"],
     image: "/groceryhub.png",
-    source: "#",
-    live: "#",
+    source: "https://github.com/mahboob-2f/GroceryHub",
+    live: "https://grocery-hub-2f.vercel.app",
   },
   {
     title: "Momentum",
@@ -21,8 +21,8 @@ const projects = [
       "Designed and developed a scalable online video directory platform to showcase and discover entrepreneurial journeys through structured, role-based content.",
     tags: ["React.js", "Typescript", "PostgreSQL", "Prisma", "TailwindCSS", "Express.js"],
     image: "/momentum.png",
-    source: "#",
-    live: "#",
+    source: "https://github.com/mahboob-2f/momentum",
+    live: "https://github.com/mahboob-2f/momentum",
   },
 ];
 

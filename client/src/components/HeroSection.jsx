@@ -24,9 +24,9 @@ export default function HeroSection() {
   });
 
   const buttons = [
-    { label: "GitHub", icon: FaGithub, href: "#" },
-    { label: "LinkedIn", icon: FaLinkedin, href: "#" },
-    { label: "Resume", icon: FaFileAlt , href: "#" },
+    { label: "GitHub", icon: FaGithub, href: "https://github.com/mahboob-2f/" },
+    { label: "LinkedIn", icon: FaLinkedin, href: "https://www.linkedin.com/in/mahboob-alam2/" },
+    { label: "Resume", icon: FaFileAlt , href: "https://drive.google.com/file/d/1jeKMBACmoo47pBhiQu7m_37bT0pfWZyy/view?usp=drive_link" },
   ];
 
   return (
