@@ -12,7 +12,7 @@ const educationData = [
   {
     institution: "Don Bosco High School",
     degree: "Senior Secondary Certificate (Class 12th)",
-    year: "2021",
+    year: "2021 -2023",
     logo: "/donbosco-logo.png",
     url: "https://dbhs.edu.in",
   },
